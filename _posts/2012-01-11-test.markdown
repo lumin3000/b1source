@@ -6,4 +6,4 @@ comments: true
 categories: 
 ---
 
-hello~ i am a test 我是一个中文测试
+hello~ i am a test 我是一个中文测试~~我是张。。。
