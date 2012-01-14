@@ -6,9 +6,9 @@ comments: true
 categories: 
 ---
 [![alt text](http://kuanmall.com/img/blog_9c9c64e38cf994909d293cd1f81d88bb5283_3.jpg)](http://kuanmall.com/img/blog_9c9c64e38cf994909d293cd1f81d88bb5283_6.jpg)
-<!-- more -->
-__不过尔尔__，这是今天餐后脑海中唯一的词汇。公平来讲，也不是全无亮点。店主帅哥待客算是周到。
 
+__不过尔尔__，这是今天餐后脑海中唯一的词汇。公平来讲，也不是全无亮点。店主帅哥待客算是周到。
+<!-- more -->
 ######[_The Rug Cafe_](http://www.therugcafes.com/)<br>
 ######电话：010-8550 2722<br>
 ######地址：朝阳区朝阳公园南路丽水嘉园4号楼1层(朝阳公园南门对面, 棕榈泉往东或公园大道往西一个小区)<br>
